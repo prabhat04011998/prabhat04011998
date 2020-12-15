@@ -1,11 +1,14 @@
 [![MasterHead](https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg)](https://prabhat04011998.github.io)
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 <h1 align="center">Hi 👋, I'm Prabhat</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
+<h6>Pursuing M.Tech.👨‍🎓 from Indian Institute of Technology Jammu in Computer Technology💻 </h6>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhat04011998" alt="prabhat04011998" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native , Information Retrieval**
 
 - 💬 Ask me about **Javascript, React , PHP etc.**
 
