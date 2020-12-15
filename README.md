@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prabhat.04011998@gmail.com**
 
-- 📄 Know about my experiences [prabhat04011998.github.io/resume](prabhat04011998.github.io/resume)
+- 📄 Know about my experiences [https://prabhat04011998.github.io/resume](https://prabhat04011998.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
